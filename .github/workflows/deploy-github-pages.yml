@@ -16,7 +16,7 @@ env:
   NG_USE_Q_AND_A_SEARCH: 'true'
   #
   # For demo-purpose only: A highly visible label to show instance name/version
-  ENV_NAME: 'HIA Test'
+  ENV_NAME: 'HIA Test for Ukraine'
   #
   # ###########################################################################
   # TEXT CONTENT:
