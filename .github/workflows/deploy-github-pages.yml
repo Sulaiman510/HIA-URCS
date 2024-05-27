@@ -16,14 +16,14 @@ env:
   NG_USE_Q_AND_A_SEARCH: 'true'
   #
   # For demo-purpose only: A highly visible label to show instance name/version
-  ENV_NAME: 'HIA Test for Ukraine'
+  ENV_NAME: 'HIA URCS'
   #
   # ###########################################################################
   # TEXT CONTENT:
   # ###########################################################################
   #
   # A (short) name, visible in the top (navigation-)bar and in the browser's tab/window-title (and search-engine results)
-  TXT_APP_NAME: 'HIA TEST'
+  TXT_APP_NAME: 'HIA URCS'
   # An absolute/data-URL to an image, visible in the top (navigation-)bar
   TXT_APP_LOGO_URL: 'https://github.com/IFRCGo/logos/blob/master/national-societies/UKR_Ukrainian-Red-Cross-Society/Ukraine_RC_Logo.svg'
   # The first heading, (only) visible on the main-page
